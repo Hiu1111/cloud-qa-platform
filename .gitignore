@@ -1,0 +1,12 @@
+# Maven
+target/
+.m2/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
